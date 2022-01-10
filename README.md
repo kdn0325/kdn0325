@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @kdn0325
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+##👋 안녕하세요
 
-<!---
-kdn0325/kdn0325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🌱 Portfolio 포트폴리오: [Portfolio](https://kdn0325.github.io/Portfolio/)
+- 🙌 Tistory 블로그 : [Tistory](https://kdn0325.tistory.com/)
+- 📫 E-Mail 보내기 : dn10003@gmail.com
