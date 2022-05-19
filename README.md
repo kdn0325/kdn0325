@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#000&text=%20Abel%20%20&height=100&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=#000&text=%20Abel%20%20&height=100&fontSize=90&fontColor=fff)
 
 <div align=left>
   <img style="height:300px;width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdn0325&layout=compact" />
