@@ -4,6 +4,6 @@
 </div>
 <hr/>
 
-- Portfolio : [Portfolio](https://portfolio-abel.netlify.app/)
-- E-Mail : sexy-ehdsud@nate.com
-- Blog : https://kdn0325.tistory.com
+## Portfolio : [Portfolio](https://portfolio-abel.netlify.app/)
+## E-Mail : sexy-ehdsud@nate.com
+## Blog : https://kdn0325.tistory.com
