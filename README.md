@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&text=Abel&desc=Abel의github입니다&height=200&fontSize=50&fontColor=f1f5f9)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&text=Abel&desc=Abel의github입니다&descSize=30&height=200&fontSize=50&fontColor=f1f5f9)
 
 <div align=left>
   <img style="height:300px;width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdn0325&layout=compact" />
