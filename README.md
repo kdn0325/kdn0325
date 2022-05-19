@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&text=Abel&desc=Abel의%20github에%20오신%20것을%20환영합니다.&descAlignY=50&height=200&fontSize=50&fontColor=f1f5f9&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&text=Abel&desc=신입%20프론트%20엔드%20개발자%20Abel%20Github%20입니다&descAlignY=50&height=200&fontSize=50&fontColor=f1f5f9&fontAlignY=30)
 
 <div align=left>
   <img style="height:300px;width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdn0325&layout=compact" />
