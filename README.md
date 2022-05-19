@@ -8,7 +8,7 @@
 
 <hr>
 
-<p align=center>
+<p>
   <img src="https://img.shields.io/badge/HTML5-ff5723?style=flat&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-007bc9?style=flat&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVASCRIPT-f7e018?style=flat&logo=Java&logoColor=white"/>
