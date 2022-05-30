@@ -7,6 +7,8 @@
 </div>
 <hr/>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kdn0325=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Portfolio : [Abel's-Portfolio](https://portfolio-abel.netlify.app/)
 ## E-Mail : sexy-ehdsud@nate.com
