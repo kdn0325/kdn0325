@@ -4,7 +4,7 @@
 </div>
 <hr/>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<a href="https://hits.sh/github.com/kdn0325/hits/"><img alt="Hits" src="https://hits.sh/github.com/kdn0325/hits.svg "/></a>
 
 ## Portfolio : [Abel's-Portfolio](https://portfolio-abel.netlify.app/)
 ## E-Mail : sexy-ehdsud@nate.com
