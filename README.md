@@ -7,7 +7,7 @@
 </div>
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn0325)](https://github.com/anuraghazra/github-readme-stats)
+[![kdn0325's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdn0325)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Portfolio : [Abel's-Portfolio](https://portfolio-abel.netlify.app/)
