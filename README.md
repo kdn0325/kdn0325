@@ -9,4 +9,4 @@
 
 ## Portfolio : [Abel's-Portfolio](https://portfolio-abel.netlify.app/)
 ## E-Mail : sexy-ehdsud@nate.com
-## Blog : https://kdn0325.tistory.com
+## Abel의 개발 블로그 : https://kdn0325.tistory.com
