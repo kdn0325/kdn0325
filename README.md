@@ -1,7 +1,7 @@
-
+##
 - Portfolio : [Abel's-Portfolio](https://portfolio-abel.netlify.app/)
 - E-Mail : sexy-ehdsud@nate.com
-- Abel의 개발 자습서 : [Tistory] (https://kdn0325.tistory.com)
+- Abel의 개발 자습서 : [Tistory](https://kdn0325.tistory.com/)
 
 ##
 ### 경력
