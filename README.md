@@ -2,9 +2,9 @@
 <details>
   <summary>😁Profile</summary>
   <div markdown="1">
-    [**Portfolio**](https://portfolio-abel.netlify.app/)
-    [**E-Mail**](mailto:dn10003@gmail.com)
-    [**Abel-Frontelio**](https://kdn0325.github.io/)
+    <a href="https://portfolio-abel.netlify.app/">[Portfolio]><a/>
+    <a href="mailto:dn10003@gmail.com">[E-Mail]><a/>
+    <a href="https://kdn0325.github.io/">[Abel-Frontelio]><a/>
   </div>
 </details>
 
