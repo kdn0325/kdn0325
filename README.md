@@ -2,9 +2,11 @@
 <details>
   <summary>😁Profile</summary>
   <div markdown="1">
-    <a href="https://portfolio-abel.netlify.app/">[Portfolio]><a/>
+    <a href="https://portfolio-abel.netlify.app/">[Portfolio]<a/>
+    <br/> 
     <a href="mailto:dn10003@gmail.com">[E-Mail]><a/>
-    <a href="https://kdn0325.github.io/">[Abel-Frontelio]><a/>
+    <br/>
+    <a href="https://kdn0325.github.io/">[Abel-Frontelio]<a/>
   </div>
 </details>
 
