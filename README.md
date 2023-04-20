@@ -1,7 +1,7 @@
 ##
 <details>
   <summary>😁Profile</summary>
-  <div align=center>
+  <div markdown="1">
     [**Portfolio**](https://portfolio-abel.netlify.app/)
     [**E-Mail**](mailto:dn10003@gmail.com)
     [**Abel-Frontelio**](https://kdn0325.github.io/)
