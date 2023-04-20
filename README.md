@@ -1,14 +1,7 @@
 ##
-<details>
-  <summary>😁Profile</summary>
-  <div markdown="1">
-    <a href="https://portfolio-abel.netlify.app/">🙂 Portfolio <a/>
-    <br/> 
-    <a href="mailto:dn10003@gmail.com">📧 E-Mail <a/>
-    <br/>
-    <a href="https://kdn0325.github.io/">🌟 Abel-Frontelio <a/>
-  </div>
-</details>
+- Portfolio :🙂 [Abel's-Portfolio](https://portfolio-abel.netlify.app/)
+- E-Mail :📧 sexy-ehdsud@nate.com
+- Blog :🌟 [Abel-Frontelio](https://kdn0325.github.io/)
 
 
 <details>
