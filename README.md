@@ -1,9 +1,11 @@
 ##
 <details>
   <summary>😁Profile</summary>
-  - Portfolio : [Abel-Frontelio](https://portfolio-abel.netlify.app/)
-  - E-Mail : dn10003@gmail.com
-  - Blog : [Abel-Frontelio](https://kdn0325.github.io/)
+  <div align=center>
+    [**Portfolio**](https://portfolio-abel.netlify.app/)
+    [**E-Mail**](mailto:dn10003@gmail.com)
+    [**Abel-Frontelio**](https://kdn0325.github.io/)
+  </div>
 </details>
 
 
