@@ -58,6 +58,7 @@ preREADME = """
  <p align="left">
 <img src="https://img.shields.io/badge/nodejs-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white" />
  
  
  #### DevOps
