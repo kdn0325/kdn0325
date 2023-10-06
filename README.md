@@ -62,7 +62,7 @@
 ![kdn0325](https://github-readme-stats.vercel.app/api?username=kdn0325&show_icons=true)
 
 ## Latest Blog Post
+ - [10/5 - [프로그래머스] 배열에서 문자열 대소문자 변환하기](https://kdn0325.github.io//programmers/124/)
+ - [10/5 - [프로그래머스] 공백으로 구분하기 2](https://kdn0325.github.io//programmers/123/)
  - [10/4 - [프로그래머스] 배열의 길이에 따라 다른 연산하기](https://kdn0325.github.io//programmers/122/)
  - [10/4 - [프로그래머스] 더 크게 합치기](https://kdn0325.github.io//programmers/121/)
- - [10/3 - [프로그래머스] 문자열 바꿔서 찾기](https://kdn0325.github.io//programmers/120/)
- - [10/3 - [프로그래머스] 특정한 문자를 대문자로 바꾸기](https://kdn0325.github.io//programmers/119/)
