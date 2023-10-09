@@ -62,7 +62,7 @@
 ![kdn0325](https://github-readme-stats.vercel.app/api?username=kdn0325&show_icons=true)
 
 ## Latest Blog Post
+ - [10/8 - [프로그래머스] 홀수 vs 짝수](https://kdn0325.github.io//programmers/128/)
+ - [10/8 - [프로그래머스] 5명씩](https://kdn0325.github.io//programmers/127/)
  - [10/7 - [프로그래머스] 홀짝에 따라 다른 값 반환하기](https://kdn0325.github.io//programmers/126/)
  - [10/7 - [프로그래머스] 순서 바꾸기](https://kdn0325.github.io//programmers/125/)
- - [10/5 - [프로그래머스] 배열에서 문자열 대소문자 변환하기](https://kdn0325.github.io//programmers/124/)
- - [10/5 - [프로그래머스] 공백으로 구분하기 2](https://kdn0325.github.io//programmers/123/)
