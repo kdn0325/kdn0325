@@ -2,7 +2,7 @@
 
 
 ## Profile
-- 🙂Portfolio : [Abel-Frontelio](https://portfolio-abel.netlify.app/)
+- 🙂Portfolio : [PORTFOLIO](https://nextjs-abel-frontelio.vercel.app/)
 - 📧E-Mail : dn10003@gmail.com
 - 🌟Blog : [Abel-Frontelio](https://kdn0325.github.io/)
 
@@ -62,7 +62,7 @@
 ![kdn0325](https://github-readme-stats.vercel.app/api?username=kdn0325&show_icons=true)
 
 ## Latest Blog Post
+ - [10/9 - [프로그래머스] l로 만들기](https://kdn0325.github.io//programmers/130/)
+ - [10/9 - [프로그래머스] 부분 문자열 이어 붙여 문자열 만들기](https://kdn0325.github.io//programmers/129/)
+ - [10/9 - [Git] GitHub에 이미 올린 파일 history에서 삭제하기](https://kdn0325.github.io//git/3/)
  - [10/8 - [프로그래머스] 홀수 vs 짝수](https://kdn0325.github.io//programmers/128/)
- - [10/8 - [프로그래머스] 5명씩](https://kdn0325.github.io//programmers/127/)
- - [10/7 - [프로그래머스] 홀짝에 따라 다른 값 반환하기](https://kdn0325.github.io//programmers/126/)
- - [10/7 - [프로그래머스] 순서 바꾸기](https://kdn0325.github.io//programmers/125/)
