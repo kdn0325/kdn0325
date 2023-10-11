@@ -62,7 +62,7 @@
 ![kdn0325](https://github-readme-stats.vercel.app/api?username=kdn0325&show_icons=true)
 
 ## Latest Blog Post
+ - [10/10 - ](https://kdn0325.github.io//2023-05-01-74/)
+ - [10/10 - [프로그래머스] 0 떼기](https://kdn0325.github.io//programmers/132/)
+ - [10/10 - [프로그래머스] 배열의 원소 삭제하기](https://kdn0325.github.io//programmers/131/)
  - [10/9 - [프로그래머스] l로 만들기](https://kdn0325.github.io//programmers/130/)
- - [10/9 - [프로그래머스] 부분 문자열 이어 붙여 문자열 만들기](https://kdn0325.github.io//programmers/129/)
- - [10/9 - [Git] GitHub에 이미 올린 파일 history에서 삭제하기](https://kdn0325.github.io//git/3/)
- - [10/8 - [프로그래머스] 홀수 vs 짝수](https://kdn0325.github.io//programmers/128/)
