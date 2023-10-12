@@ -60,9 +60,11 @@
 
 ## Git Stats
 ![kdn0325](https://github-readme-stats.vercel.app/api?username=kdn0325&show_icons=true)
+[![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
+[![kdn0325's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn0325&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kdn0325?tab=repositories)
 
 ## Latest Blog Post
+ - [10/12 - [프로그래머스] 두 수의 연산값 비교하기](https://kdn0325.github.io//programmers/136/)
+ - [10/12 - [프로그래머스] x 사이의 개수](https://kdn0325.github.io//programmers/135/)
+ - [10/12 - [issues] Multiple command produce 에러 [ios]](https://kdn0325.github.io//issues/1/)
  - [10/11 - [React Native] Async-Storage , Encrypted-Storage](https://kdn0325.github.io//react-native/12/)
- - [10/11 - [프로그래머스] 가까운 1 찾기](https://kdn0325.github.io//programmers/134/)
- - [10/11 - [프로그래머스] 할 일 목록](https://kdn0325.github.io//programmers/133/)
- - [10/10 - [프로그래머스] 0 떼기](https://kdn0325.github.io//programmers/132/)
