@@ -76,9 +76,7 @@ preREADME = """
 </p>
 
 ## Git Stats
-![kdn0325](https://github-readme-stats.vercel.app/api?username=kdn0325&show_icons=true)
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
-[![kdn0325's Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kdn0325&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kdn0325?tab=repositories)
 
 ## Latest Blog Post
 """
