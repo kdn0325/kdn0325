@@ -62,7 +62,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## Latest Blog Post
+ - [10/14 - [프로그래머스] ad 제거하기](https://kdn0325.github.io//programmers/138/)
+ - [10/14 - [프로그래머스] 콜라츠 수열 만들기](https://kdn0325.github.io//programmers/137/)
  - [10/13 - [issues] The following Swift pods cannot yet be integrated as static libraries: 에러 [ios]](https://kdn0325.github.io//issues/3/)
  - [10/12 - [프로그래머스] 두 수의 연산값 비교하기](https://kdn0325.github.io//programmers/136/)
- - [10/12 - [프로그래머스] x 사이의 개수](https://kdn0325.github.io//programmers/135/)
- - [10/12 - [issues] DVTCoreDeviceEnabledState: DVTCoreDeviceEnabledState_Disabled set via user default (DVTEnableCoreDevice=disabled) 에러 [ios]](https://kdn0325.github.io//issues/2/)
