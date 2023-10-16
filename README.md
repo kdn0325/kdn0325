@@ -62,7 +62,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## Latest Blog Post
+ - [10/15 - [프로그래머스] 문자 리스트를 문자열로 변환하기](https://kdn0325.github.io//programmers/140/)
+ - [10/15 - [프로그래머스] 문자열 잘라서 정렬하기](https://kdn0325.github.io//programmers/139/)
  - [10/14 - [프로그래머스] ad 제거하기](https://kdn0325.github.io//programmers/138/)
  - [10/14 - [프로그래머스] 콜라츠 수열 만들기](https://kdn0325.github.io//programmers/137/)
- - [10/13 - [issues] The following Swift pods cannot yet be integrated as static libraries: 에러 [ios]](https://kdn0325.github.io//issues/3/)
- - [10/12 - [프로그래머스] 두 수의 연산값 비교하기](https://kdn0325.github.io//programmers/136/)
