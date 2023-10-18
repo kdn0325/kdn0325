@@ -62,7 +62,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## Latest Blog Post
+ - [10/17 - [프로그래머스] 문자열 섞기](https://kdn0325.github.io//programmers/142/)
+ - [10/17 - [프로그래머스] 간단한 식 계산하기](https://kdn0325.github.io//programmers/141/)
  - [10/15 - [프로그래머스] 문자 리스트를 문자열로 변환하기](https://kdn0325.github.io//programmers/140/)
  - [10/15 - [프로그래머스] 문자열 잘라서 정렬하기](https://kdn0325.github.io//programmers/139/)
- - [10/14 - [프로그래머스] ad 제거하기](https://kdn0325.github.io//programmers/138/)
- - [10/14 - [프로그래머스] 콜라츠 수열 만들기](https://kdn0325.github.io//programmers/137/)
