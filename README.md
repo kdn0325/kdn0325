@@ -58,11 +58,14 @@
 <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white" />
 </p>
 
+## Git Hits
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## Git Stats
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## Latest Blog Post
+ - [10/19 - [프로그래머스] 주사위 게임 2](https://kdn0325.github.io//programmers/144/)
+ - [10/19 - [프로그래머스] 9로 나눈 나머지](https://kdn0325.github.io//programmers/143/)
  - [10/17 - [프로그래머스] 문자열 섞기](https://kdn0325.github.io//programmers/142/)
  - [10/17 - [프로그래머스] 간단한 식 계산하기](https://kdn0325.github.io//programmers/141/)
- - [10/15 - [프로그래머스] 문자 리스트를 문자열로 변환하기](https://kdn0325.github.io//programmers/140/)
- - [10/15 - [프로그래머스] 문자열 잘라서 정렬하기](https://kdn0325.github.io//programmers/139/)
