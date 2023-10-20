@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## Latest Blog Post
+ - [10/19 - [React Native] Firebase Push 알림 구현 하기 [ios]](https://kdn0325.github.io//react-native/13/)
  - [10/19 - [프로그래머스] 주사위 게임 2](https://kdn0325.github.io//programmers/144/)
  - [10/19 - [프로그래머스] 9로 나눈 나머지](https://kdn0325.github.io//programmers/143/)
- - [10/17 - [프로그래머스] 문자열 섞기](https://kdn0325.github.io//programmers/142/)
- - [10/17 - [프로그래머스] 간단한 식 계산하기](https://kdn0325.github.io//programmers/141/)
+ - [10/19 - [issues] The following Swift pods cannot yet be integrated as static libraries: 에러 [ios]](https://kdn0325.github.io//issues/4/)
