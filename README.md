@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## Latest Blog Post
- - [10/20 - [프로그래머스]문자열 뒤집기](https://kdn0325.github.io//programmers/146/)
+ - [10/21 - [프로그래머스] 수 조작하기 2](https://kdn0325.github.io//programmers/148/)
+ - [10/21 - [프로그래머스] 글자 지우기](https://kdn0325.github.io//programmers/147/)
+ - [10/20 - [프로그래머스] 문자열 뒤집기](https://kdn0325.github.io//programmers/146/)
  - [10/20 - [프로그래머스] 날짜 비교하기](https://kdn0325.github.io//programmers/145/)
- - [10/19 - [React Native] Firebase Push 알림 구현 하기 [ios]](https://kdn0325.github.io//react-native/13/)
- - [10/19 - [프로그래머스] 주사위 게임 2](https://kdn0325.github.io//programmers/144/)
