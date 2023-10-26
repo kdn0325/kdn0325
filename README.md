@@ -64,7 +64,11 @@
 ## Git Stats
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
-## Latest Blog Post
- - [10/22 - [프로그래머스] 컨트롤 제트](https://kdn0325.github.io//programmers/150/)
- - [10/22 - [프로그래머스] 직사각형 넓이 구하기](https://kdn0325.github.io//programmers/149/)
- - [10/21 - [프로그래머스] 수 조작하기 2](https://kdn0325.github.io//programmers/148/)
+## 최근 포스트
+ - [10/26 - [프로그래머스] 배열 원소의 길이](https://kdn0325.github.io//programmers/7/)
+ - [10/26 - [프로그래머스] 문자열 뒤집기](https://kdn0325.github.io//programmers/8/)
+ - [10/25 - [프로그래머스] 피자 나눠 먹기 (1)](https://kdn0325.github.io//programmers/5/)
+ - [10/25 - [프로그래머스] 배열 뒤집기](https://kdn0325.github.io//programmers/6/)
+ - [10/24 - [프로그래머스] 배열의 평균값](https://kdn0325.github.io//programmers/3/)
+ - [10/24 - [프로그래머스] 양꼬치](https://kdn0325.github.io//programmers/4/)
+ - [10/23 - [프로그래머스] 각도기](https://kdn0325.github.io//programmers/1/)
