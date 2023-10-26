@@ -3,18 +3,18 @@ import feedparser
 blog_url = "https://kdn0325.github.io/feed.xml"
 rss_feed = feedparser.parse(blog_url)
 
-MAX_NUM = 3
+MAX_NUM = 6
 
 latest_posts = ""
 
-# 'updated_parsed' 필드를 사용하여 업데이트 날짜를 기준으로 정렬
-entries_sorted_by_update = sorted(rss_feed['entries'], key=lambda x: x['updated_parsed'], reverse=True)
+# 'modified_parsed' 필드를 사용하여 수정일자를 기반으로 정렬
+entries_sorted_by_modified = sorted(rss_feed['entries'], key=lambda x: x['modified_parsed'], reverse=True)
 
-for idx, entry in enumerate(entries_sorted_by_update):
+for idx, entry in enumerate(entries_sorted_by_modified):
     if idx >= MAX_NUM:
         break
-    updated_date = entry['updated_parsed']
-    latest_posts += f" - [{updated_date.tm_mon}/{updated_date.tm_mday} - {entry['title']}]({entry['link']})\n"
+    modified_date = entry['modified_parsed']
+    latest_posts += f" - [{modified_date.tm_mon}/{modified_date.tm_mday} - {entry['title']}]({entry['link']})\n"
 
 print(latest_posts)
 
