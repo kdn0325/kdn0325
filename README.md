@@ -68,4 +68,3 @@
  - [10/22 - [프로그래머스] 컨트롤 제트](https://kdn0325.github.io//programmers/150/)
  - [10/22 - [프로그래머스] 직사각형 넓이 구하기](https://kdn0325.github.io//programmers/149/)
  - [10/21 - [프로그래머스] 수 조작하기 2](https://kdn0325.github.io//programmers/148/)
- - [10/21 - [프로그래머스] 글자 지우기](https://kdn0325.github.io//programmers/147/)
