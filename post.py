@@ -81,7 +81,7 @@ preREADME = """
 ## Git Stats
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
-## Latest Blog Post
+## 최근 포스트
 """
 
 resultREADME = f"{preREADME}{latest_posts}"
