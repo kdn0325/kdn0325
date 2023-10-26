@@ -7,13 +7,17 @@ MAX_NUM = 3
 
 latest_posts = ""
 
-for idx, entrie in enumerate(rss_feed['entries']):
-  if idx > MAX_NUM:
-     break;
-  feed_date = entrie['published_parsed']
-  latest_posts += f" - [{feed_date.tm_mon}/{feed_date.tm_mday} - {entrie['title']}]({entrie['link']})\n"
+# 'updated_parsed' 필드를 사용하여 업데이트 날짜를 기준으로 정렬
+entries_sorted_by_update = sorted(rss_feed['entries'], key=lambda x: x['updated_parsed'], reverse=True)
+
+for idx, entry in enumerate(entries_sorted_by_update):
+    if idx >= MAX_NUM:
+        break
+    updated_date = entry['updated_parsed']
+    latest_posts += f" - [{updated_date.tm_mon}/{updated_date.tm_mday} - {entry['title']}]({entry['link']})\n"
 
 print(latest_posts)
+
 
 preREADME = """
 
