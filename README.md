@@ -4,7 +4,7 @@
 ## Profile
 - 🙂Portfolio : [PORTFOLIO](https://nextjs-abel-frontelio.vercel.app/)
 - 📧E-Mail : dn10003@gmail.com
-- 🌟Blog : [Abel-Frontelio](https://kdn0325.github.io/)
+- 🌟Blog : [ABEL-FRONTELIO](https://kdn0325.github.io/)
 
 
 ## Tech Stack
