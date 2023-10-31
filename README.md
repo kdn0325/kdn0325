@@ -65,10 +65,10 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
+ - [10/30 - [프로그래머스] 아이스 아메리카노](https://kdn0325.github.io//programmers/13/)
+ - [10/30 - [프로그래머스] 짝수는 싫어요](https://kdn0325.github.io//programmers/14/)
  - [10/29 - [프로그래머스] 문자 반복 출력하기](https://kdn0325.github.io//programmers/11/)
  - [10/29 - [프로그래머스] 배열 자르기](https://kdn0325.github.io//programmers/12/)
  - [10/27 - [프로그래머스] 중복된 숫자 개수](https://kdn0325.github.io//programmers/9/)
  - [10/27 - [프로그래머스] 점의 위치 구하기](https://kdn0325.github.io//programmers/10/)
  - [10/26 - [프로그래머스] 배열 원소의 길이](https://kdn0325.github.io//programmers/7/)
- - [10/26 - [프로그래머스] 문자열 뒤집기](https://kdn0325.github.io//programmers/8/)
- - [10/25 - [프로그래머스] 피자 나눠 먹기 (1)](https://kdn0325.github.io//programmers/5/)
