@@ -65,10 +65,3 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
- - [11/1 - [프로그래머스] 최댓값 만들기(1)](https://kdn0325.github.io//programmers/15/)
- - [11/1 - [프로그래머스] 삼각형의 완성조건 (1)](https://kdn0325.github.io//programmers/16/)
- - [10/30 - [프로그래머스] 아이스 아메리카노](https://kdn0325.github.io//programmers/13/)
- - [10/30 - [프로그래머스] 짝수는 싫어요](https://kdn0325.github.io//programmers/14/)
- - [10/29 - [프로그래머스] 문자 반복 출력하기](https://kdn0325.github.io//programmers/11/)
- - [10/29 - [프로그래머스] 배열 자르기](https://kdn0325.github.io//programmers/12/)
- - [10/27 - [프로그래머스] 중복된 숫자 개수](https://kdn0325.github.io//programmers/9/)
