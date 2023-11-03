@@ -65,3 +65,8 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
+ - [11/3 - [프로그래머스] 배열 두배 만들기](https://kdn0325.github.io/computerscience/2023-02-27-19/)
+ - [11/3 - [프로그래머스] 특정 문자 제거하기](https://kdn0325.github.io/computerscience/2023-02-27-20/)
+ - [11/2 - [프로그래머스] 피자 나눠 먹기 (3)](https://kdn0325.github.io/computerscience/2023-02-20-17/)
+ - [11/2 - [프로그래머스] 머쓱이보다 키 큰 사람](https://kdn0325.github.io/computerscience/2023-02-20-18/)
+ - [11/1 - [프로그래머스] 최댓값 만들기(1)](https://kdn0325.github.io/computerscience/2023-02-09-15/)
