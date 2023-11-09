@@ -65,8 +65,8 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
+ - [11/8 - [프로그래머스] 숨어있는 숫자의 덧셈 (1)](https://kdn0325.github.io/computerscience/2023-04-03-29/)
+ - [11/8 - [프로그래머스] 제곱수 판별하기](https://kdn0325.github.io/computerscience/2023-04-03-30/)
  - [11/7 - [프로그래머스] 모음 제거](https://kdn0325.github.io/computerscience/2023-04-02-27/)
  - [11/7 - [프로그래머스] 문자열안에 문자열](https://kdn0325.github.io/computerscience/2023-04-02-28/)
  - [11/6 - [프로그래머스] 중앙값 구하기](https://kdn0325.github.io/computerscience/2023-03-14-25/)
- - [11/6 - [프로그래머스] 자릿수 더하기](https://kdn0325.github.io/computerscience/2023-03-14-26/)
- - [11/5 - [프로그래머스] 순서쌍의 개수](https://kdn0325.github.io/computerscience/2023-03-02-23/)
