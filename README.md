@@ -69,4 +69,3 @@
  - [11/8 - [프로그래머스] 제곱수 판별하기](https://kdn0325.github.io/computerscience/2023-04-03-30/)
  - [11/7 - [프로그래머스] 모음 제거](https://kdn0325.github.io/computerscience/2023-04-02-27/)
  - [11/7 - [프로그래머스] 문자열안에 문자열](https://kdn0325.github.io/computerscience/2023-04-02-28/)
- - [11/6 - [프로그래머스] 중앙값 구하기](https://kdn0325.github.io/computerscience/2023-03-14-25/)
