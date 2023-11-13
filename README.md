@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
- - [11/11 - [프로그래머스] 가위 바위 보](https://kdn0325.github.io/computerscience/2023-04-06-35/)
- - [11/11 - [프로그래머스] 세균 증식](https://kdn0325.github.io/computerscience/2023-04-06-36/)
- - [11/10 - [프로그래머스] 암호해독](https://kdn0325.github.io/computerscience/2023-04-05-33/)
- - [11/10 - [프로그래머스] 문자열 정렬하기 (1)](https://kdn0325.github.io/computerscience/2023-04-05-34/)
+ - [11/12 - [프로그래머스] 주사위의 개수](https://kdn0325.github.io/computerscience/2023-04-07-37/)
+ - [11/12 - [프로그래머스] 직각삼각형 출력](https://kdn0325.github.io/computerscience/2023-04-07-38/)
+ - [11/12 - [프로그래머스] 나머지가 1이 되는 수 찾기](https://kdn0325.github.io/computerscience/2023-11-12-151/)
+ - [11/12 - [프로그래머스] x만큼 간격이 있는 n개의 숫자](https://kdn0325.github.io/computerscience/2023-11-12-152/)
