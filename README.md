@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
- - [11/13 - [프로그래머스] 최댓값 만들기 (2)](https://kdn0325.github.io/computerscience/2023-04-10-39/)
- - [11/13 - [프로그래머스] n의 배수 고르기](https://kdn0325.github.io/computerscience/2023-04-10-40/)
- - [11/13 - [프로그래머스] 문자열 내 p와 y의 개수](https://kdn0325.github.io/computerscience/2023-11-13-153/)
- - [11/13 - [프로그래머스] 자릿수 더하기](https://kdn0325.github.io/computerscience/2023-11-13-154/)
+ - [11/14 - [프로그래머스] 인덱스 바꾸기](https://kdn0325.github.io/computerscience/2023-04-11-41/)
+ - [11/14 - [프로그래머스] 배열 회전시키기](https://kdn0325.github.io/computerscience/2023-04-11-42/)
+ - [11/14 - [프로그래머스] 문자열을 정수로 바꾸기](https://kdn0325.github.io/computerscience/2023-11-14-155/)
+ - [11/14 - [프로그래머스] 자연수 뒤집어 배열로 만들기](https://kdn0325.github.io/computerscience/2023-11-14-156/)
