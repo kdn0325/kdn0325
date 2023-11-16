@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
- - [11/14 - [프로그래머스] 인덱스 바꾸기](https://kdn0325.github.io/computerscience/2023-04-11-41/)
- - [11/14 - [프로그래머스] 배열 회전시키기](https://kdn0325.github.io/computerscience/2023-04-11-42/)
- - [11/14 - [프로그래머스] 문자열을 정수로 바꾸기](https://kdn0325.github.io/computerscience/2023-11-14-155/)
- - [11/14 - [프로그래머스] 자연수 뒤집어 배열로 만들기](https://kdn0325.github.io/computerscience/2023-11-14-156/)
+ - [11/15 - [프로그래머스] 외계 행성의 나이](https://kdn0325.github.io/computerscience/2023-04-12-43/)
+ - [11/15 - [프로그래머스] 가장 큰 수 찾기](https://kdn0325.github.io/computerscience/2023-04-12-44/)
+ - [11/15 - [프로그래머스] 정수 제곱근 판별](https://kdn0325.github.io/computerscience/2023-11-15-157/)
+ - [11/15 - [프로그래머스] 정수 내림차순으로 배치하기](https://kdn0325.github.io/computerscience/2023-11-15-158/)
