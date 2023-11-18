@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
- - [11/16 - [프로그래머스] 약수의 합](https://kdn0325.github.io/computerscience/2023-04-13-45/)
- - [11/16 - [프로그래머스] 평균 구하기](https://kdn0325.github.io/computerscience/2023-04-13-46/)
- - [11/16 - [프로그래머스] 하샤드 수](https://kdn0325.github.io/computerscience/2023-11-16-159/)
- - [11/16 - [프로그래머스] 두 정수 사이의 합](https://kdn0325.github.io/computerscience/2023-11-16-160/)
+ - [11/17 - [프로그래머스] 짝수와 홀수](https://kdn0325.github.io/computerscience/2023-04-14-47/)
+ - [11/17 - [프로그래머스] 피자 나눠 먹기 (2)](https://kdn0325.github.io/computerscience/2023-04-14-48/)
+ - [11/17 - [프로그래머스] 콜라츠 추측](https://kdn0325.github.io/computerscience/2023-11-17-161/)
+ - [11/17 - [프로그래머스] 음양 더하기](https://kdn0325.github.io/computerscience/2023-11-17-162/)
