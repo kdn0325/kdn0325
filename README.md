@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
- - [11/21 - [프로그래머스] 모스부호 (1)](https://kdn0325.github.io/computerscience/2023-04-18-55/)
- - [11/21 - [프로그래머스] A로 B 만들기](https://kdn0325.github.io/computerscience/2023-04-18-56/)
- - [11/21 - [JavaScript] 실행 컨텍스트 (execution context)](https://kdn0325.github.io/programming/2023-11-20-22/)
- - [11/21 - [프로그래머스] 수박수박수박수박수박수?](https://kdn0325.github.io/computerscience/2023-11-21-169/)
+ - [11/22 - [프로그래머스] 팩토리얼](https://kdn0325.github.io/computerscience/2023-04-19-57/)
+ - [11/22 - [프로그래머스] 2차원으로 만들기](https://kdn0325.github.io/computerscience/2023-04-19-58/)
+ - [11/22 - [JavaScript] 실행 컨텍스트 (Execution Context)](https://kdn0325.github.io/programming/2023-11-20-22/)
+ - [11/22 - [프로그래머스] 약수의 개수와 덧셈](https://kdn0325.github.io/computerscience/2023-11-22-171/)
