@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
- - [11/23 - [프로그래머스] 가까운 수](https://kdn0325.github.io/computerscience/2023-04-20-59/)
- - [11/23 - [프로그래머스] 진료순서 정하기](https://kdn0325.github.io/computerscience/2023-04-20-60/)
- - [11/23 - [프로그래머스] 부족한 금액 계산하기](https://kdn0325.github.io/computerscience/2023-11-23-173/)
- - [11/23 - [프로그래머스] 문자열 다루기 기본](https://kdn0325.github.io/computerscience/2023-11-23-174/)
+ - [11/24 - [프로그래머스] 이진수 더하기](https://kdn0325.github.io/computerscience/2023-04-21-61/)
+ - [11/24 - [JavaScript] this](https://kdn0325.github.io/programming/2023-11-23-23/)
+ - [11/24 - [프로그래머스] 행렬의 덧셈](https://kdn0325.github.io/computerscience/2023-11-24-175/)
+ - [11/24 - [프로그래머스] 최대공약수와 최소공배수](https://kdn0325.github.io/computerscience/2023-11-24-176/)
