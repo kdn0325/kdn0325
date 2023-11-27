@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
- - [11/25 - [프로그래머스] 문자열로 변환](https://kdn0325.github.io/computerscience/2023-04-24-63/)
- - [11/25 - [프로그래머스] 대문자로 바꾸기](https://kdn0325.github.io/computerscience/2023-04-24-64/)
- - [11/25 - [프로그래머스] 같은 숫자는 싫어](https://kdn0325.github.io/computerscience/2023-11-25-177/)
- - [11/25 - [프로그래머스] 3진법 뒤집기](https://kdn0325.github.io/computerscience/2023-11-25-178/)
+ - [11/26 - [프로그래머스] 한 번만 등장한 문자](https://kdn0325.github.io/computerscience/2023-04-25-65/)
+ - [11/26 - [프로그래머스] k의 개수](https://kdn0325.github.io/computerscience/2023-04-25-66/)
+ - [11/26 - [프로그래머스] 예산](https://kdn0325.github.io/computerscience/2023-11-26-179/)
+ - [11/26 - [프로그래머스] 이상한 문자 만들기](https://kdn0325.github.io/computerscience/2023-11-26-180/)
