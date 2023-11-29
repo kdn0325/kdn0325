@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
+ - [11/28 - [프로그래머스] n의 배수](https://kdn0325.github.io/computerscience/2023-04-27-69/)
+ - [11/28 - [프로그래머스] 문자열 곱하기](https://kdn0325.github.io/computerscience/2023-04-27-70/)
  - [11/27 - [프로그래머스] 7의 개수](https://kdn0325.github.io/computerscience/2023-04-26-67/)
  - [11/27 - [프로그래머스] 영어가 싫어요](https://kdn0325.github.io/computerscience/2023-04-26-68/)
- - [11/27 - [프로그래머스] 크기가 작은 부분문자열](https://kdn0325.github.io/computerscience/2023-11-27-181/)
- - [11/27 - [프로그래머스] 가장 가까운 같은 글자](https://kdn0325.github.io/computerscience/2023-11-27-182/)
