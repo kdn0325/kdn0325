@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
- - [12/3 - [JavaScript] 콜백 함수 (Callback Function)](https://kdn0325.github.io/programming/2023-12-03-24/)
- - [12/2 - [프로그래머스] 외계어 사전](https://kdn0325.github.io/computerscience/2023-05-02-75/)
- - [12/2 - [프로그래머스] 최빈값 구하기](https://kdn0325.github.io/computerscience/2023-05-02-76/)
- - [12/2 - [프로그래머스] 문자열 내 마음대로 정렬하기](https://kdn0325.github.io/computerscience/2023-12-02-187/)
+ - [12/4 - [프로그래머스] 잘라서 배열로 저장하기](https://kdn0325.github.io/computerscience/2023-05-08-77/)
+ - [12/4 - [프로그래머스] 문자열 밀기](https://kdn0325.github.io/computerscience/2023-05-08-78/)
+ - [12/4 - [프로그래머스] 두 개 뽑아서 더하기](https://kdn0325.github.io/computerscience/2023-12-04-189/)
+ - [12/4 - [프로그래머스] K번째수](https://kdn0325.github.io/computerscience/2023-12-04-190/)
