@@ -65,7 +65,7 @@
 [![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
 
 ## 최근 포스트
+ - [12/7 - [AWS] AWS Amplify로 Next.js 배포하기](https://kdn0325.github.io/etc/2023-12-07-1/)
  - [12/5 - [프로그래머스] 부분 문자열](https://kdn0325.github.io/computerscience/2023-08-29-79/)
  - [12/5 - [프로그래머스] 문자열 출력하기](https://kdn0325.github.io/computerscience/2023-08-30-80/)
  - [12/5 - [프로그래머스] 2016년](https://kdn0325.github.io/computerscience/2023-12-05-191/)
- - [12/5 - [프로그래머스] 소수 찾기](https://kdn0325.github.io/computerscience/2023-12-05-192/)
