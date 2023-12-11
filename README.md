@@ -61,11 +61,8 @@
 ## Git Hits
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## Git Stats
-[![kdn0325's Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kdn0325&theme=vue)]((https://github.com/codeisneverodd?tab=repositories))
-
 ## 최근 포스트
+ - [12/11 - [issues] Package path ./browser is not exported from package [next.js]](https://kdn0325.github.io/issues/2023-12-11-5/)
+ - [12/10 - [프로그래머스] 카운트 업](https://kdn0325.github.io/computerscience/2023-09-14-85/)
+ - [12/10 - [프로그래머스] 원소들의 곱과 합](https://kdn0325.github.io/computerscience/2023-09-14-86/)
  - [12/10 - [JavaScript] 콜백 함수 (Callback Function)](https://kdn0325.github.io/programming/2023-12-03-24/)
- - [12/8 - [프로그래머스] n개 간격의 원소들](https://kdn0325.github.io/computerscience/2023-08-31-81/)
- - [12/8 - [프로그래머스] 공배수](https://kdn0325.github.io/computerscience/2023-09-01-82/)
- - [12/8 - [프로그래머스] 길이에 따른 연산](https://kdn0325.github.io/computerscience/2023-09-02-83/)
