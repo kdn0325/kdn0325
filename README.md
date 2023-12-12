@@ -62,7 +62,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 최근 포스트
+ - [12/11 - [프로그래머스] 정수 부분](https://kdn0325.github.io/computerscience/2023-09-15-87/)
+ - [12/11 - [프로그래머스] 문자열을 정수로 변환하기](https://kdn0325.github.io/computerscience/2023-09-15-88/)
  - [12/11 - [issues] Package path ./browser is not exported from package [next.js]](https://kdn0325.github.io/issues/2023-12-11-5/)
  - [12/10 - [프로그래머스] 카운트 업](https://kdn0325.github.io/computerscience/2023-09-14-85/)
- - [12/10 - [프로그래머스] 원소들의 곱과 합](https://kdn0325.github.io/computerscience/2023-09-14-86/)
- - [12/10 - [JavaScript] 콜백 함수 (Callback Function)](https://kdn0325.github.io/programming/2023-12-03-24/)
