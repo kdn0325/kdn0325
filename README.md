@@ -62,7 +62,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 최근 포스트
+ - [12/16 - [JavaScript] 클로저(Closure)](https://kdn0325.github.io/programming/2023-12-12-25/)
+ - [12/16 - [Next.js] Parallel Routes](https://kdn0325.github.io/frontend/2023-12-14-4/)
  - [12/14 - [프로그래머스] 소문자로 바꾸기](https://kdn0325.github.io/computerscience/2023-09-16-89/)
  - [12/14 - [프로그래머스] flag에 따라 다른 값 반환하기](https://kdn0325.github.io/computerscience/2023-09-16-90/)
- - [12/14 - [Next.js] Parallel Routes](https://kdn0325.github.io/frontend/2023-12-14-4/)
- - [12/13 - [CSS] Vanila-extract](https://kdn0325.github.io/programming/2023-12-13-1/)
