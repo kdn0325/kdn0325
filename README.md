@@ -62,7 +62,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 최근 포스트
+ - [12/17 - [JavaScript] 클로저(Closure)](https://kdn0325.github.io/programming/2023-12-12-25/)
  - [12/16 - [프로그래머스] n보다 커질 때까지 더하기](https://kdn0325.github.io/computerscience/2023-09-17-91/)
  - [12/16 - [프로그래머스] n 번째 원소까지](https://kdn0325.github.io/computerscience/2023-09-17-92/)
- - [12/16 - [JavaScript] 클로저(Closure)](https://kdn0325.github.io/programming/2023-12-12-25/)
  - [12/16 - [Next.js] Parallel Routes](https://kdn0325.github.io/frontend/2023-12-14-4/)
