@@ -62,7 +62,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 최근 포스트
+ - [1/5 - [React Native] S3 연동 스토리지 => 이미지 업로드](https://kdn0325.github.io/frontend/2024-01-05-23/)
  - [1/2 - [React Native] image-picker (이미지 업로드)](https://kdn0325.github.io/frontend/2024-01-02-21/)
  - [1/1 - [React Native] 환경 변수 셋팅](https://kdn0325.github.io/frontend/2024-01-01-20/)
  - [1/1 - [issues]  Error installing boost: Verification checksum was incorrect, expected [react-native]](https://kdn0325.github.io/issues/2024-01-01-7/)
- - [12/30 - [React.js] Webpack Setting](https://kdn0325.github.io/frontend/2023-12-30-18/)
