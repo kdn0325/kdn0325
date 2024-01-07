@@ -18,7 +18,7 @@ for idx, entry in enumerate(rss_feed['entries']):
         mktime(feed_date)
     ).strftime('%Y년 %m월 %d일')
 
-    latest_posts += f" - [📆{formatted_date} /{entry['title']}]({entry['link']})\n"
+    latest_posts += f" - [📆{formatted_date} / {entry['title']}]({entry['link']})\n"
 
 print(latest_posts)
 
