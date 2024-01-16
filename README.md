@@ -62,6 +62,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 최근 포스트
+ - [📆2024년 01월 15일 / [Reference] 2024 상태 관리 라이브러리 비교](https://kdn0325.github.io/etc/2024-01-15-7/)
  - [📆2024년 01월 13일 / [프로토콜] MQTT Protocol](https://kdn0325.github.io/etc/2024-01-13-1/)
  - [📆2024년 01월 11일 / [React Native] S3 연동 이미지 업로드](https://kdn0325.github.io/frontend/2024-01-11-22/)
- - [📆2024년 01월 11일 / [React Native] react-native-vision-camera](https://kdn0325.github.io/frontend/2024-01-11-24/)
