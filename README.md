@@ -62,6 +62,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 최근 포스트
+ - [📆2024년 01월 24일 / [Reference] NPM 단축키](https://kdn0325.github.io/etc/2024-01-24-8/)
  - [📆2024년 01월 22일 / [issues] Cannot read property 'version' of undefined [react-native]](https://kdn0325.github.io/issues/2024-01-22-8/)
  - [📆2024년 01월 19일 / [issues] No template named 'unary_function' in namespace 'std'; did you mean '__unary_function'? [react-native]](https://kdn0325.github.io/issues/2024-01-19-7/)
- - [📆2024년 01월 17일 / [React Native] DeepLink](https://kdn0325.github.io/frontend/2024-01-17-25/)
