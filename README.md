@@ -56,6 +56,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 최근 포스트
+ - [📆2024년 02월 03일 / [프로그래머스] 문자열의 앞의 n글자](https://kdn0325.github.io/computerscience/2024-02-03-95/)
+ - [📆2024년 02월 03일 / [프로그래머스] 첫 번째로 나오는 음수](https://kdn0325.github.io/computerscience/2024-02-03-96/)
  - [📆2024년 02월 01일 / [알고리즘] 큐 (Queue)](https://kdn0325.github.io/computerscience/2024-02-01-10/)
- - [📆2024년 01월 28일 / [알고리즘] 스택 (Stack)](https://kdn0325.github.io/computerscience/2024-01-28-9/)
- - [📆2024년 01월 24일 / [Reference] NPM 단축키](https://kdn0325.github.io/etc/2024-01-24-8/)
