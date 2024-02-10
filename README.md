@@ -56,6 +56,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdn0325%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 최근 포스트
+ - [📆2024년 02월 09일 / [알고리즘] 연결 리스트 (LinkedList)](https://kdn0325.github.io/computerscience/2024-02-09-11/)
  - [📆2024년 02월 07일 / [JavaScript] 프로토타입 (Prototype)](https://kdn0325.github.io/programming/2024-02-07-26/)
  - [📆2024년 02월 04일 / [프로그래머스] 공백으로 구분하기 1](https://kdn0325.github.io/computerscience/2023-09-21-97/)
- - [📆2024년 02월 04일 / [프로그래머스] 정수 찾기](https://kdn0325.github.io/computerscience/2023-09-21-98/)
