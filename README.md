@@ -2,7 +2,7 @@
 
 
 ## Profile
-- 🙂Portfolio : [PORTFOLIO](https://www.dongnyeong.world)
+- 🙂Portfolio : [DONGNYEONG_WORLD](https://www.dongnyeong.world)
 - 📧E-Mail : dn10003@gmail.com
 - 🌟Blog : [DONGNYEONG-FRONTELIO](https://kdn0325.github.io/)
 <img src="https://raw.githubusercontent.com/kdn0325/terminal-for-github-profile-readme/1adccd811a108350e5dbe91c5e4911c04bd6f289/github_stats.svg" />
