@@ -24,11 +24,13 @@ print(latest_posts)
 
 preREADME = """
 
+<div align="center">
+  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kdn0325)](https://solved.ac/kdn0325)
+<img src="http://mazandi.herokuapp.com/api?handle=kdn0325&theme=warm"/>
 
-## Profile
-- 🙂Portfolio : [DONGNYEONG_WORLD](https://www.dongnyeong.world)
-- 📧E-Mail : dn10003@gmail.com
-- 🌟Blog : [DONGNYEONG-FRONTELIO](https://kdn0325.github.io/)
+</div>
 <img src="https://raw.githubusercontent.com/kdn0325/terminal-for-github-profile-readme/1adccd811a108350e5dbe91c5e4911c04bd6f289/github_stats.svg" />
 
 
