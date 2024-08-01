@@ -1,27 +1,23 @@
-import feedparser
-from datetime import datetime
-from time import mktime
+import os
 
-blog_url = "https://kdn0325.github.io/feed.xml"
-rss_feed = feedparser.parse(blog_url)
+def update_readme():
+    readme_path = 'README.md'
+    image_url = 'https://raw.githubusercontent.com/kdn0325/terminal-for-github-profile-readme/1adccd811a108350e5dbe91c5e4911c04bd6f289/github_stats.svg'
+    
+    # 읽어온 README 파일 내용
+    with open(readme_path, 'r') as file:
+        content = file.readlines()
+    
+    # 이미지 URL 업데이트
+    new_content = []
+    for line in content:
+        if '<img src="' in line:
+            line = f'<img src="{image_url}" />\n'
+        new_content.append(line)
+    
+    # 수정된 내용으로 README 파일 업데이트
+    with open(readme_path, 'w') as file:
+        file.writelines(new_content)
 
-MAX_NUM = 3
-
-latest_posts = ""
-
-for idx, entry in enumerate(rss_feed['entries']):
-    if idx >= MAX_NUM:
-        break
-
-    feed_date = entry['published_parsed']
-    formatted_date = datetime.fromtimestamp(
-        mktime(feed_date)
-    ).strftime('%Y년 %m월 %d일')
-
-    latest_posts += f" - [📆{formatted_date} / {entry['title']}]({entry['link']})\n"
-
-print(latest_posts)
-
-preREADME = """
-
-<img src="https://raw.githubusercontent.com/kdn0325/terminal-for-github-profile-readme/1adccd811a108350e5dbe91c5e4911c04bd6f289/github_stats.svg" />
+if __name__ == "__main__":
+    update_readme()
