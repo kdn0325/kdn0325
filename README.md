@@ -7,7 +7,7 @@
     src="https://github.com/user-attachments/assets/c099a1b8-d90c-4e49-b14e-1506115d2e0c"
     height="50"
   />
-  팝 스펙트럼
+  펑펑랜드
 </h1>
 
   <a align="center" href=""><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" /></a>
