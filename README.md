@@ -4,9 +4,8 @@
   <h1>
   <img
     align="center"
-    src="https://github.com/user-attachments/assets/61c3c58b-be93-4830-831d-99440c533f95"
+    src="https://github.com/user-attachments/assets/c099a1b8-d90c-4e49-b14e-1506115d2e0c"
     height="50"
-    style="border-radius: 80px;"
   />
   팝 스펙트럼
 </h1>
