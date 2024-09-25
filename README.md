@@ -9,9 +9,12 @@
   />
   펑펑랜드
 </h1>
-
-  <a align="center" href=""><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" /></a>
-  <a align="center" href="https://apps.apple.com/kr/app/balloonburst/id6692629091"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="52" /></a>
+  <a align="center" href="">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="50" />
+  </a>
+  <a align="center" href="https://apps.apple.com/kr/app/balloonburst/id6692629091" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="52" />
+  </a>
 </div>
   <img alt="kdn0325 profile-readme" src="https://github.com/kdn0325/terminal-for-github-profile-readme/blob/main/github_stats.svg" />
   <div style="display: flex; flex-direction: row;  justify-content: center; gap: 20px;">
