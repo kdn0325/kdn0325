@@ -1,6 +1,11 @@
 
 
 
+## Profile
+- 🙂Portfolio : [dongnyeong.dev](https://www.dongnyeong.com)
+- 📧E-Mail : dn10003@gmail.com
+- 🌟Blog : [DONGNYEONG-FRONTELIO](https://kdn0325.github.io/)
+
 ## 최근 포스트
  - [3/17 - [알고리즘] Array Deep Dive 배열 정렬하기](https://kdn0325.github.io/algorithm/2025-03-17-1.html)
  - [3/17 - [알고리즘] Array Deep Dive 배열 제어하기](https://kdn0325.github.io/algorithm/2025-03-17-2.html)
